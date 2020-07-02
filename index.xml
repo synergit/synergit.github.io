@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chloe, the Architect</title>
+    <link>https://synergit.github.io/</link>
+    <description>Recent content on Chloe, the Architect</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Jul 2020 17:30:13 -0400</lastBuildDate>
+    
+	<atom:link href="https://synergit.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>K8s Day One</title>
+      <link>https://synergit.github.io/posts/k8s-day1/</link>
+      <pubDate>Thu, 02 Jul 2020 17:30:13 -0400</pubDate>
+      
+      <guid>https://synergit.github.io/posts/k8s-day1/</guid>
+      <description>It is very nice to build an architecture with cloud services. Hand-on experience is the only way to truly understand the technology.
+I have to say IBMCloud CLI is easy to use and consistent with the available functionalities on IBM Cloud Console UI. As a programmer/architect, I really enjoy using terminal to config services on my local and deploy to cloud. Also, the tutorial for K8s on IBMCloud is good too!</description>
+    </item>
+    
+  </channel>
+</rss>
